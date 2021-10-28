@@ -4,8 +4,8 @@ This repository contains the scripts I use to learn R based on the book R for Da
 
 # Organization
 
-There's one script for each chapter containing examples and exercises from the book that I do for practice and some other things that pop in my head during practice.
+There's one script for each chapter containing examples and exercises from the book that I do for practice and some other things that pop in my head during practice. Files are named according to its chapter. For example, the script for chapter 1 is named "ch02.R".
 
 # Reference
 
-"R for Data Science by Hadley Wickham and Garrett Grolemund (O'Reilly). Copyright 2017 Garret Grolemund, Hadley Wickham, 978-1491-91039-9."
+R for Data Science by Hadley Wickham and Garrett Grolemund (O'Reilly). Copyright 2017 Garret Grolemund, Hadley Wickham, 978-1491-91039-9.
